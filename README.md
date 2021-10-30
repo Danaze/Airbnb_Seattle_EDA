@@ -9,12 +9,13 @@ To run the notebook, the following python packages are required:<br />
 This notebook goes through data preparation, preparation and visualizaitons to answer the following questions: <br />
 The dataset can be downloaded from [here](https://www.kaggle.com/airbnb/seattle/data)
 
-##### 1. How the listing prices are distributed?
-##### 2. Which months are priciest ?
-##### 3. Which months are the busiest to visit Seattle? Does busy month also means expensive?
-##### 4. What is the distribution of the listings in the city borders? are they evenly distribued or concentrated in few neighbourhoods?
-##### 5. What can be said aboud the vibe of the neighbourhoods based on reviews?
-In the notebook, the questions are analysed step-by-step to arrive at data-driven conclusions
+##### &nbsp;&nbsp;&nbsp; 1. How the listing prices are distributed?
+##### &nbsp;&nbsp;&nbsp; 2. Which months are priciest ?
+##### &nbsp;&nbsp;&nbsp; 3. Which months are the busiest to visit Seattle? Does busy month also means expensive?
+##### &nbsp;&nbsp;&nbsp; 4. What is the distribution of the listings in the city borders? are they evenly distribued or concentrated in few neighbourhoods?
+##### &nbsp;&nbsp;&nbsp; 5. What can be said aboud the vibe of the neighbourhoods based on reviews?
+In the notebook, the questions are analysed step-by-step to arrive at data-driven conclusions.
+To render some plots (maps) on the notebook, you can use [nbviewer](http://nbviewer.org/). 
 ### Summary of Findings:
 1. The mass of weekly price listings is in the range of $100 - $1000 but the distribution has a long right tail (maximum upto $6300) <br />
 2. On average, July is the most expensive month followed closely by August and June. <br />
