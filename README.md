@@ -25,4 +25,4 @@ To render some plots (maps) on the notebook, you can use [nbviewer](http://nbvie
 ### Acknowledgement
 &nbsp;&nbsp; Inside Airbnb initiative, link [here](http://insideairbnb.com/about.html). <br />
 &nbsp;&nbsp; Visualization of text data (a blog post from towards data science), link [here](https://towardsdatascience.com/a-complete-exploratory-data-analysis-and-visualization-for-text-data-29fb1b96fb6a). <br />
-
+### Medium blog post summarizing the results is available [here](https://medium.com/@daazene/airbnb-seattle-dataset-basic-exploratory-data-analysis-b2615b2a44ef). 
