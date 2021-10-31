@@ -22,6 +22,9 @@ To render some plots (maps) on the notebook, you can use [nbviewer](http://nbvie
 3. Based on the amount of reviews received, it seems that Seattle is visited most in August. <br />
 4. Most of the listings are concetrated in just few neighbourhoods of Seattle (e.g. Broadway, Belltown ...). <br />
 5. Based on the frequent words appearing in reviews/comments, some information about the feel/vibe of each neighbourhood can be infered. <br />
+
+![alt text](heatmap.PNG "Heatmap of Airbnb listings")
+
 ### Acknowledgement
 &nbsp;&nbsp; [1]. Inside Airbnb initiative, link [here](http://insideairbnb.com/about.html). <br />
 &nbsp;&nbsp; [2]. Visualization of text data (a blog post from towards data science), link [here](https://towardsdatascience.com/a-complete-exploratory-data-analysis-and-visualization-for-text-data-29fb1b96fb6a). <br />
