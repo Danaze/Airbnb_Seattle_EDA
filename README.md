@@ -19,6 +19,8 @@ To render some plots (maps) on the notebook, you can use [nbviewer](http://nbvie
 ### Summary of Findings:
 1. The mass of weekly price listings is in the range of $100 - $1000 but the distribution has a long right tail (maximum upto $6300) <br />
 2. On average, July is the most expensive month followed closely by August and June. <br />
+![alt text](price_barplot.PNG "Barplot of average monthly prices")
+
 3. Based on the amount of reviews received, it seems that Seattle is visited most in August. <br />
 4. Most of the listings are concetrated in just few neighbourhoods of Seattle (e.g. Broadway, Belltown ...). <br />
 5. Based on the frequent words appearing in reviews/comments, some information about the feel/vibe of each neighbourhood can be infered. <br />
